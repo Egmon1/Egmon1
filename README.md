@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Egmon1
-- 👀 I’m interested in ... your mom
-- 🌱 I’m currently learning ... the world
-- 💞️ I’m looking to collaborate on ... offbrand cheezits
-- 📫 How to reach me ... with your toes
+
